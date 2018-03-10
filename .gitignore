@@ -36,3 +36,6 @@ Content/ForgottenHotel/Overview.umap
 Content/ForgottenHotel/Showcase.umap
 Content/HorrorSoundPack.umap
 *.wav
+*.fbx
+Content/SharurCatacombsPack/Maps/Demonstration.umap
+Content/SharurCatacombsPack/Maps/Overview.umap

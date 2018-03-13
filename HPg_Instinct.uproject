@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "WebEZ",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/87bbb1b5621a45318ac85069cf48eaaf"
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]

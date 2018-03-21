@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "WebEZ",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/87bbb1b5621a45318ac85069cf48eaaf"
 		}
 	],
